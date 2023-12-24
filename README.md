@@ -4,7 +4,7 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 ## 📫 Contact Me
 | [LinkedIn](https://www.linkedin.com/in/tae-sung-ha-696a5b246/) |
 
-## 🔭 Looking for co-work with
+## 🔭 Looking for admission from
 1. AAA
 2. BBB
 3. CCC
