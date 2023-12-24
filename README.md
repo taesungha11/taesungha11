@@ -1,4 +1,14 @@
-### Hi there 👋
+## 👋 Introduction
+Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawling, Regression Analysis, Machine Learning, Statistical Data Analysis using Python and C programming.
+
+## 📫 Contact Me
+| [LinkedIn](https://www.linkedin.com/in/tae-sung-ha-696a5b246/) |
+
+## 🔭 Looking for co-work with
+1. AAA
+2. BBB
+3. CCC
+
 
 <!--
 **taesungha11/taesungha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
