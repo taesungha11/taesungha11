@@ -5,14 +5,16 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 | [LinkedIn](https://www.linkedin.com/in/tae-sung-ha-696a5b246/) |
 
 ## 🔭 Currently working on
-1. AAA
-2. BBB
-3. CCC
+1. Machine Learning based Factor Modeling
+2. Data-driven Reinterpretation
+3. Anomaly Detection
+4. Numerical Approximation
+5. Robo Advisory
 
 ## 👯 Looking to collaborate on
-1. AAA
-2. BBB
-3. CCC
+1. Statistics
+2. Monte-Carlo Simulation
+3. Bayesian Method
 
 
 <!--
