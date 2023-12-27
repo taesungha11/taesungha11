@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawling, Regression Analysis, Machine Learning, Statistical Data Analysis using Python and C programming.
+Hi, My name is Taesung Ha, a student in statistics. I have interests in Regression Analysis, Machine Learning, Statistical Data Analysis using Python and C programming.
 
 ## 📫 Contact Me
 | [LinkedIn](https://www.linkedin.com/in/tae-sung-ha-696a5b246/) | [Email](mailto:taesung.ha97@gmail.com) |
