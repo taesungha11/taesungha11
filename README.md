@@ -12,16 +12,12 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 
 ## 👯 Looking to collaborate on
 1. University of Florida, Gainesville: [Peter Flom](https://stat.ufl.edu/people/faculty/), [Michael Kosorok](https://stat.ufl.edu/people/faculty/)
-2. University of Virginia, Charlottesville: David Scott: Professor Emeritus, known for his contributions to kernel density estimation and adaptive methods. (https://engineering.virginia.edu/faculty/david-chen)
-Jingchen Liu: Professor, known for her research in Bayesian nonparametrics and computational statistics. (https://med.virginia.edu/faculty/faculty-listing/zl3e/)
-3. Virginia Tech: Alan Karr: Professor, known for his work in statistical computing and data visualization. (https://www.cals.vt.edu/about/administration/grant-alan.html)
-Christopher Genovese: Professor, known for his research in empirical processes and high-dimensional data analysis. (https://ccs.vt.edu/ccsstaff.html)
-4. Texas A&M University: Susan Holmes: Professor, known for her contributions to statistical genetics and bioinformatics. (https://online.stat.tamu.edu/faculty/)
-David Scott: Professor Emeritus (also at University of Virginia), known for his contributions to kernel density estimation and adaptive methods. (https://hmgt.tamu.edu/people/scott-david/)
-5. New York University: Michael Rosenblatt: Professor Emeritus, known for his work in point processes and statistical mechanics. (https://tisch.nyu.edu/art-public-policy/people/faculty)
-Susan Murphy: Professor, known for her research in survival analysis and longitudinal data analysis. (https://as.nyu.edu/departments/facultydiversity/welcome.html)
-6. University of Southern California: Michael Chumaceiro: Professor, known for his work in Bayesian statistics and computational methods. (https://dornsife.usc.edu/deib/meet-our-team/)
-Giovanni Parmigiani: Professor, known for his research in statistical genetics and bioinformatics. (https://www.hsph.harvard.edu/cancer-prevention/people/giovanni-parmigiani-phd/)
+2. University of Virginia, Charlottesville: [David Scott](https://engineering.virginia.edu/faculty/david-chen), [Jingchen Liu](https://med.virginia.edu/faculty/faculty-listing/zl3e/)
+3. Virginia Tech: [Alan Karr](https://www.cals.vt.edu/about/administration/grant-alan.html), [Christopher Genovese](https://ccs.vt.edu/ccsstaff.html)
+4. Texas A&M University: [Susan Holmes](https://online.stat.tamu.edu/faculty/), [David Scott](https://hmgt.tamu.edu/people/scott-david/)
+5. New York University: [Michael Rosenblatt](https://tisch.nyu.edu/art-public-policy/people/faculty), [Susan Murphy](https://as.nyu.edu/departments/facultydiversity/welcome.html)
+6. University of Southern California: [Michael Chumaceiro](https://dornsife.usc.edu/deib/meet-our-team/), [
+Giovanni Parmigiani](https://www.hsph.harvard.edu/cancer-prevention/people/giovanni-parmigiani-phd/)
 7. Pennsylvania State University: Susan Furterer: Professor, known for her work in nonparametric statistics and high-dimensional data analysis. (https://science.psu.edu/stat)
 Jun Liu: Professor, known for his research in Bayesian statistics and computational methods. (https://sites.psu.edu/sldm/)
 8. University of Illinois Urbana-Champaign: Susan S. Ellenberg: Professor, known for her work in statistical learning and high-dimensional data analysis. (https://ece.illinois.edu/about/history/heads)
