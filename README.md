@@ -5,11 +5,10 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 | [LinkedIn](https://www.linkedin.com/in/tae-sung-ha-696a5b246/) | [Email](mailto:taesung.ha97@gmail.com) |
 
 ## 🔭 Currently working on
-1. Machine Learning based Factor Modeling
-2. Data-driven Reinterpretation
-3. Anomaly Detection
-4. Numerical Approximation
-5. Robo Advisory
+1. Machine Learning based Factor Modeling (https://github.com/taesungha11/Projects-TH_2023/blob/main/Machine_Learning_based_Factor_Modeling/ReadMe.md)
+2. Data-driven Reinterpretation (https://github.com/taesungha11/Projects-TH_2023/blob/main/Data_driven_Reinterpretation/ReadMe.md)
+3. Anomaly Detection (https://github.com/taesungha11/Projects-TH_2023/blob/main/Anomaly_Detection/ReadMe.md)
+4. Numerical Approximation (https://github.com/taesungha11/Projects-TH_2023/blob/main/Numerical_Approximation_to_Put_Option_Pricing_function/ReadMe.md)
 
 ## 👯 Looking to collaborate on
 1. University of Florida, Gainesville: Peter Flom: Professor Emeritus, known for his work in Bayesian statistics and time series analysis. (https://stat.ufl.edu/people/faculty/)
