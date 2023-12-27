@@ -18,16 +18,12 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 5. New York University: [Michael Rosenblatt](https://tisch.nyu.edu/art-public-policy/people/faculty), [Susan Murphy](https://as.nyu.edu/departments/facultydiversity/welcome.html)
 6. University of Southern California: [Michael Chumaceiro](https://dornsife.usc.edu/deib/meet-our-team/), [
 Giovanni Parmigiani](https://www.hsph.harvard.edu/cancer-prevention/people/giovanni-parmigiani-phd/)
-7. Pennsylvania State University: Susan Furterer: Professor, known for her work in nonparametric statistics and high-dimensional data analysis. (https://science.psu.edu/stat)
-Jun Liu: Professor, known for his research in Bayesian statistics and computational methods. (https://sites.psu.edu/sldm/)
-8. University of Illinois Urbana-Champaign: Susan S. Ellenberg: Professor, known for her work in statistical learning and high-dimensional data analysis. (https://ece.illinois.edu/about/history/heads)
-Fedor Lazarus: Professor, known for his research in stochastic processes and time series analysis. (https://grainger.illinois.edu/about/directory/faculty)
-9. University of Connecticut: Jun Zhu: Professor, known for his work in statistical learning and data mining. (https://statistics.uconn.edu/person/jun-yan/)
-Yongqiang Liu: Professor, known for his research in survival analysis and longitudinal data analysis. (https://yliu-stat.com/)
-10. Columbia University: Michael Steinberger: Professor, known for his work in Bayesian statistics and computational methods. (https://www.linkedin.com/in/michael-steinberg-24046619)
-Xiao-Li Meng: Professor, known for his research in missing data analysis and statistical computing. (https://statistics.fas.harvard.edu/people/xiao-li-meng)
-11. CUNY Graduate Center: Michael Hout: Professor, known for his research in quantitative methods in social sciences. (https://www.gc.cuny.edu/sociology/faculty)
-David Howell: Professor Emeritus, known for his work in statistical methods for social sciences. (https://www.gc.cuny.edu/people)
+7. Pennsylvania State University: [Susan Furterer](https://science.psu.edu/stat), [Jun Liu](https://sites.psu.edu/sldm/)
+8. University of Illinois Urbana-Champaign: [Susan S. Ellenberg](https://ece.illinois.edu/about/history/heads), [Fedor Lazarus](https://grainger.illinois.edu/about/directory/faculty)
+9. University of Connecticut: [Jun Zhu](https://statistics.uconn.edu/person/jun-yan/), [Yongqiang Liu](https://yliu-stat.com/)
+10. Columbia University: [Michael Steinberger](https://www.linkedin.com/in/michael-steinberg-24046619), [
+Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+11. CUNY Graduate Center: [Michael Hout](https://www.gc.cuny.edu/sociology/faculty), [David Howell](https://www.gc.cuny.edu/people)
 
 
 <!--
