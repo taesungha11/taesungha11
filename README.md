@@ -11,8 +11,7 @@ Hi, My name is T.S. Ha, a student in statistics. I have interests in Web Crawlin
 4. [Numerical Approximation](https://github.com/taesungha11/Projects-TH_2023/blob/main/Numerical_Approximation_to_Put_Option_Pricing_function/ReadMe.md)
 
 ## 👯 Looking to collaborate on
-1. University of Florida, Gainesville: Peter Flom: Professor Emeritus, known for his work in Bayesian statistics and time series analysis. (https://stat.ufl.edu/people/faculty/)
-Michael Kosorok: Professor, known for his research in nonparametric statistics and high-dimensional data analysis. (https://stat.ufl.edu/people/faculty/)
+1. University of Florida, Gainesville: [Peter Flom](https://stat.ufl.edu/people/faculty/), [Michael Kosorok](https://stat.ufl.edu/people/faculty/)
 2. University of Virginia, Charlottesville: David Scott: Professor Emeritus, known for his contributions to kernel density estimation and adaptive methods. (https://engineering.virginia.edu/faculty/david-chen)
 Jingchen Liu: Professor, known for her research in Bayesian nonparametrics and computational statistics. (https://med.virginia.edu/faculty/faculty-listing/zl3e/)
 3. Virginia Tech: Alan Karr: Professor, known for his work in statistical computing and data visualization. (https://www.cals.vt.edu/about/administration/grant-alan.html)
