@@ -14,7 +14,7 @@ Hi, My name is Taesung Ha, a student in statistics. I have interests in Regressi
 - University of Florida, Gainesville: [Peter Flom](https://stat.ufl.edu/people/faculty/), [Michael Kosorok](https://stat.ufl.edu/people/faculty/)
 - University of Virginia, Charlottesville: [David Scott](https://engineering.virginia.edu/faculty/david-chen), [Jingchen Liu](https://med.virginia.edu/faculty/faculty-listing/zl3e/)
 - Virginia Tech: [Alan Karr](https://www.cals.vt.edu/about/administration/grant-alan.html), [Christopher Genovese](https://ccs.vt.edu/ccsstaff.html)
-- Texas A&M University: [Susan Holmes](https://online.stat.tamu.edu/faculty/), [David Scott](https://hmgt.tamu.edu/people/scott-david/)
+- Texas A&M University: [David Scott](https://hmgt.tamu.edu/people/scott-david/)
 - New York University: [Michael Rosenblatt](https://tisch.nyu.edu/art-public-policy/people/faculty), [Susan Murphy](https://as.nyu.edu/departments/facultydiversity/welcome.html)
 - University of Southern California: [Michael Chumaceiro](https://dornsife.usc.edu/deib/meet-our-team/), [
 Giovanni Parmigiani](https://www.hsph.harvard.edu/cancer-prevention/people/giovanni-parmigiani-phd/)
